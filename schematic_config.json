@@ -1,0 +1,13 @@
+{
+  "model_dir": "C:\\AI\\Models",
+  "provider": "Local GGUF",
+  "openai_api_key": "",
+  "openai_model": "gpt-4.1",
+  "system_prompt": "You are a helpful assistant. Follow the user's request exactly and answer briefly and directly unless asked otherwise. Do not repeat yourself. If the user asks a simple factual question, return only the answer.",
+  "pdf_path": "C:/Enkod_work/Schematic_Analysis/Schemes/ESP-WROVER-KIT_V4_1.pdf",
+  "json_path": "C:/Enkod_work/Schematic_Analysis/Schemes/esp32_devkitc_v4_netlist_llm.json",
+  "use_inline_context": true,
+  "include_pdf_context": true,
+  "include_json_context": false,
+  "n_ctx": "12000"
+}
